@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+width: 100%;
+border: 1PX solid   purple;
+border-radius: 10px;
+color: white;
+background-color: purple;
+}
+.ecom{
+    width: 30%;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.user{
+    display: flex;
+    width: 15%;
+    justify-content: space-around;
+    margin: auto;
+}
+.section{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    margin: auto;
+    margin-left: -10%;
+}
